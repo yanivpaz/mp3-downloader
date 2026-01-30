@@ -1,290 +1,0 @@
-[youtube:tab] Extracting URL: https://www.youtube.com/watch?v=0HJEARRKNxM&list=PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo
-[youtube:tab] Downloading playlist PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo - add --no-playlist to download just the video 0HJEARRKNxM
-[youtube:tab] PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo: Downloading webpage
-[youtube:tab] Extracting URL: https://www.youtube.com/playlist?list=PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo
-[youtube:tab] PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo: Downloading webpage
-[youtube:tab] PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo: Redownloading playlist API JSON with unavailable videos
-[download] Downloading playlist: אייל גולן - הפוך מהיקום
-[youtube:tab] PL2l4T5NjtOsr9nwhv6SS1w7pmUdCNtnfo page 1: Downloading API JSON
-[youtube:tab] Playlist אייל גולן - הפוך מהיקום: Downloading 20 items of 20
-[download] Downloading item 1 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=0HJEARRKNxM
-[youtube] 0HJEARRKNxM: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] 0HJEARRKNxM: Downloading android vr player API JSON
-[youtube] 0HJEARRKNxM: Downloading ios downgraded player API JSON
-[youtube] 0HJEARRKNxM: Downloading m3u8 information
-[info] 0HJEARRKNxM: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/01 - אייל גולן -  אסתדר לבד.webm
-[download]   0.0% of    3.46MiB at  629.40KiB/s ETA 00:05[download]   0.1% of    3.46MiB at    1.50MiB/s ETA 00:02Downloading 01 - אייל גולן -  אסתדר לבד.webm   0.0%  629.40KiB/s ETA 00:05[download]   0.2% of    3.46MiB at    2.94MiB/s ETA 00:01Downloading 01 - אייל גולן -  אסתדר לבד.webm   0.1%    1.50MiB/s ETA 00:02[download]   0.4% of    3.46MiB at    5.28MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm   0.2%    2.94MiB/s ETA 00:01[download]   0.9% of    3.46MiB at    9.23MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm   0.4%    5.28MiB/s ETA 00:00[download]   1.8% of    3.46MiB at    9.77MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm   0.9%    9.23MiB/s ETA 00:00[download]   3.6% of    3.46MiB at   11.69MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm   1.8%    9.77MiB/s ETA 00:00[download]   7.2% of    3.46MiB at   18.85MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm   3.6%   11.69MiB/s ETA 00:00[download]  14.4% of    3.46MiB at   19.01MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm   7.2%   18.85MiB/s ETA 00:00[download]  28.9% of    3.46MiB at   34.21MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm  14.4%   19.01MiB/s ETA 00:00[download]  57.9% of    3.46MiB at   59.58MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm  28.9%   34.21MiB/s ETA 00:00[download] 100.0% of    3.46MiB at   73.36MiB/s ETA 00:00Downloading 01 - אייל גולן -  אסתדר לבד.webm  57.9%   59.58MiB/s ETA 00:00[download] 100% of    3.46MiB in 00:00:00 at 48.80MiB/s  Downloading 01 - אייל גולן -  אסתדר לבד.webm 100.0%   73.36MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/01 - אייל גולן -  אסתדר לבד.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/01 - אייל גולן -  אסתדר לבד.mp3
-Deleting original file /mnt/c/mp3/01 - אייל גולן -  אסתדר לבד.webm (pass -k to keep)
-[download] Downloading item 2 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=JV_rI42qM0g
-[youtube] JV_rI42qM0g: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] JV_rI42qM0g: Downloading android vr player API JSON
-[youtube] JV_rI42qM0g: Downloading ios downgraded player API JSON
-[youtube] JV_rI42qM0g: Downloading m3u8 information
-[info] JV_rI42qM0g: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm
-[download]   0.0% of    3.22MiB at  590.83KiB/s ETA 00:05[download]   0.1% of    3.22MiB at    1.48MiB/s ETA 00:02Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   0.0%  590.83KiB/s ETA 00:05[download]   0.2% of    3.22MiB at    2.88MiB/s ETA 00:01Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   0.1%    1.48MiB/s ETA 00:02[download]   0.5% of    3.22MiB at    5.09MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   0.2%    2.88MiB/s ETA 00:01[download]   0.9% of    3.22MiB at    9.37MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   0.5%    5.09MiB/s ETA 00:00[download]   1.9% of    3.22MiB at   11.76MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   0.9%    9.37MiB/s ETA 00:00[download]   3.9% of    3.22MiB at   16.19MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   1.9%   11.76MiB/s ETA 00:00[download]   7.7% of    3.22MiB at   22.41MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   3.9%   16.19MiB/s ETA 00:00[download]  15.5% of    3.22MiB at   33.17MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm   7.7%   22.41MiB/s ETA 00:00[download]  31.0% of    3.22MiB at   47.28MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm  15.5%   33.17MiB/s ETA 00:00[download]  62.1% of    3.22MiB at   66.24MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm  31.0%   47.28MiB/s ETA 00:00[download] 100.0% of    3.22MiB at   63.03MiB/s ETA 00:00Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm  62.1%   66.24MiB/s ETA 00:00[download] 100% of    3.22MiB in 00:00:00 at 45.69MiB/s  Downloading 02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm 100.0%   63.03MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/02 - אייל גולן ומשה פרץ  - הולכים להשתגע.mp3
-Deleting original file /mnt/c/mp3/02 - אייל גולן ומשה פרץ  - הולכים להשתגע.webm (pass -k to keep)
-[download] Downloading item 3 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=MGBBnM8s9D8
-[youtube] MGBBnM8s9D8: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] MGBBnM8s9D8: Downloading android vr player API JSON
-[youtube] MGBBnM8s9D8: Downloading ios downgraded player API JSON
-[youtube] MGBBnM8s9D8: Downloading m3u8 information
-[info] MGBBnM8s9D8: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/03 - אייל גולן - האם להיות בך מאוהב.webm
-[download]   0.0% of    3.31MiB at  273.82KiB/s ETA 00:12[download]   0.1% of    3.31MiB at  755.32KiB/s ETA 00:04Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   0.0%  273.82KiB/s ETA 00:12[download]   0.2% of    3.31MiB at    1.10MiB/s ETA 00:03Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   0.1%  755.32KiB/s ETA 00:04[download]   0.4% of    3.31MiB at    2.20MiB/s ETA 00:01Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   0.2%    1.10MiB/s ETA 00:03[download]   0.9% of    3.31MiB at    4.30MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   0.4%    2.20MiB/s ETA 00:01[download]   1.9% of    3.31MiB at    6.42MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   0.9%    4.30MiB/s ETA 00:00[download]   3.7% of    3.31MiB at    9.71MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   1.9%    6.42MiB/s ETA 00:00[download]   7.5% of    3.31MiB at   14.34MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   3.7%    9.71MiB/s ETA 00:00[download]  15.1% of    3.31MiB at   22.40MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm   7.5%   14.34MiB/s ETA 00:00[download]  30.2% of    3.31MiB at   37.00MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm  15.1%   22.40MiB/s ETA 00:00[download]  60.3% of    3.31MiB at   49.09MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm  30.2%   37.00MiB/s ETA 00:00[download] 100.0% of    3.31MiB at   64.04MiB/s ETA 00:00Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm  60.3%   49.09MiB/s ETA 00:00[download] 100% of    3.31MiB in 00:00:00 at 44.34MiB/s  Downloading 03 - אייל גולן - האם להיות בך מאוהב.webm 100.0%   64.04MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/03 - אייל גולן - האם להיות בך מאוהב.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/03 - אייל גולן - האם להיות בך מאוהב.mp3
-Deleting original file /mnt/c/mp3/03 - אייל גולן - האם להיות בך מאוהב.webm (pass -k to keep)
-[download] Downloading item 4 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=orcb4veeLnY
-[youtube] orcb4veeLnY: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] orcb4veeLnY: Downloading android vr player API JSON
-[youtube] orcb4veeLnY: Downloading ios downgraded player API JSON
-[youtube] orcb4veeLnY: Downloading m3u8 information
-[info] orcb4veeLnY: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/04 - אייל גולן - טירוף מתוק.webm
-[download]   0.0% of    3.88MiB at  601.85KiB/s ETA 00:06[download]   0.1% of    3.88MiB at    1.50MiB/s ETA 00:02Downloading 04 - אייל גולן - טירוף מתוק.webm   0.0%  601.85KiB/s ETA 00:06[download]   0.2% of    3.88MiB at    2.96MiB/s ETA 00:01Downloading 04 - אייל גולן - טירוף מתוק.webm   0.1%    1.50MiB/s ETA 00:02[download]   0.4% of    3.88MiB at    5.20MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm   0.2%    2.96MiB/s ETA 00:01[download]   0.8% of    3.88MiB at    9.36MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm   0.4%    5.20MiB/s ETA 00:00[download]   1.6% of    3.88MiB at   10.48MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm   0.8%    9.36MiB/s ETA 00:00[download]   3.2% of    3.88MiB at   16.59MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm   1.6%   10.48MiB/s ETA 00:00[download]   6.4% of    3.88MiB at   20.97MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm   3.2%   16.59MiB/s ETA 00:00[download]  12.9% of    3.88MiB at   28.33MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm   6.4%   20.97MiB/s ETA 00:00[download]  25.8% of    3.88MiB at   42.09MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm  12.9%   28.33MiB/s ETA 00:00[download]  51.5% of    3.88MiB at   57.57MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm  25.8%   42.09MiB/s ETA 00:00[download] 100.0% of    3.88MiB at   73.40MiB/s ETA 00:00Downloading 04 - אייל גולן - טירוף מתוק.webm  51.5%   57.57MiB/s ETA 00:00[download] 100% of    3.88MiB in 00:00:00 at 47.57MiB/s  Downloading 04 - אייל גולן - טירוף מתוק.webm 100.0%   73.40MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/04 - אייל גולן - טירוף מתוק.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/04 - אייל גולן - טירוף מתוק.mp3
-Deleting original file /mnt/c/mp3/04 - אייל גולן - טירוף מתוק.webm (pass -k to keep)
-[download] Downloading item 5 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=_AuZVi9WG08
-[youtube] _AuZVi9WG08: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] _AuZVi9WG08: Downloading android vr player API JSON
-[youtube] _AuZVi9WG08: Downloading ios downgraded player API JSON
-[youtube] _AuZVi9WG08: Downloading m3u8 information
-[info] _AuZVi9WG08: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/05 - אייל גולן - אהבה ראשונה.webm
-[download]   0.0% of    3.80MiB at  592.25KiB/s ETA 00:06[download]   0.1% of    3.80MiB at    1.46MiB/s ETA 00:02Downloading 05 - אייל גולן - אהבה ראשונה.webm   0.0%  592.25KiB/s ETA 00:06[download]   0.2% of    3.80MiB at    2.82MiB/s ETA 00:01Downloading 05 - אייל גולן - אהבה ראשונה.webm   0.1%    1.46MiB/s ETA 00:02[download]   0.4% of    3.80MiB at    5.05MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm   0.2%    2.82MiB/s ETA 00:01[download]   0.8% of    3.80MiB at    9.23MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm   0.4%    5.05MiB/s ETA 00:00[download]   1.6% of    3.80MiB at    8.21MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm   0.8%    9.23MiB/s ETA 00:00[download]   3.3% of    3.80MiB at   10.88MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm   1.6%    8.21MiB/s ETA 00:00[download]   6.6% of    3.80MiB at   15.82MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm   3.3%   10.88MiB/s ETA 00:00[download]  13.1% of    3.80MiB at   24.49MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm   6.6%   15.82MiB/s ETA 00:00[download]  26.3% of    3.80MiB at   34.53MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm  13.1%   24.49MiB/s ETA 00:00[download]  52.6% of    3.80MiB at   49.64MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm  26.3%   34.53MiB/s ETA 00:00[download] 100.0% of    3.80MiB at   69.48MiB/s ETA 00:00Downloading 05 - אייל גולן - אהבה ראשונה.webm  52.6%   49.64MiB/s ETA 00:00[download] 100% of    3.80MiB in 00:00:00 at 47.45MiB/s  Downloading 05 - אייל גולן - אהבה ראשונה.webm 100.0%   69.48MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/05 - אייל גולן - אהבה ראשונה.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/05 - אייל גולן - אהבה ראשונה.mp3
-Deleting original file /mnt/c/mp3/05 - אייל גולן - אהבה ראשונה.webm (pass -k to keep)
-[download] Downloading item 6 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=AdzLoLEs--Q
-[youtube] AdzLoLEs--Q: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] AdzLoLEs--Q: Downloading android vr player API JSON
-[youtube] AdzLoLEs--Q: Downloading ios downgraded player API JSON
-[youtube] AdzLoLEs--Q: Downloading m3u8 information
-[info] AdzLoLEs--Q: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/06 - אייל גולן - הפוך מהיקום.webm
-[download]   0.0% of    3.51MiB at  526.06KiB/s ETA 00:06[download]   0.1% of    3.51MiB at    1.34MiB/s ETA 00:02Downloading 06 - אייל גולן - הפוך מהיקום.webm   0.0%  526.06KiB/s ETA 00:06[download]   0.2% of    3.51MiB at    2.68MiB/s ETA 00:01Downloading 06 - אייל גולן - הפוך מהיקום.webm   0.1%    1.34MiB/s ETA 00:02[download]   0.4% of    3.51MiB at    4.94MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm   0.2%    2.68MiB/s ETA 00:01[download]   0.9% of    3.51MiB at    9.04MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm   0.4%    4.94MiB/s ETA 00:00[download]   1.8% of    3.51MiB at   11.05MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm   0.9%    9.04MiB/s ETA 00:00[download]   3.5% of    3.51MiB at   16.83MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm   1.8%   11.05MiB/s ETA 00:00[download]   7.1% of    3.51MiB at   23.35MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm   3.5%   16.83MiB/s ETA 00:00[download]  14.2% of    3.51MiB at   33.05MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm   7.1%   23.35MiB/s ETA 00:00[download]  28.5% of    3.51MiB at   46.84MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm  14.2%   33.05MiB/s ETA 00:00[download]  57.0% of    3.51MiB at   60.18MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm  28.5%   46.84MiB/s ETA 00:00[download] 100.0% of    3.51MiB at   72.38MiB/s ETA 00:00Downloading 06 - אייל גולן - הפוך מהיקום.webm  57.0%   60.18MiB/s ETA 00:00[download] 100% of    3.51MiB in 00:00:00 at 49.12MiB/s  Downloading 06 - אייל גולן - הפוך מהיקום.webm 100.0%   72.38MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/06 - אייל גולן - הפוך מהיקום.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/06 - אייל גולן - הפוך מהיקום.mp3
-Deleting original file /mnt/c/mp3/06 - אייל גולן - הפוך מהיקום.webm (pass -k to keep)
-[download] Downloading item 7 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=FcgDcSqYmv4
-[youtube] FcgDcSqYmv4: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] FcgDcSqYmv4: Downloading android vr player API JSON
-[youtube] FcgDcSqYmv4: Downloading ios downgraded player API JSON
-[youtube] FcgDcSqYmv4: Downloading m3u8 information
-[info] FcgDcSqYmv4: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/07 - משה פרץ ואייל גולן - המילים החסרות.webm
-[download]   0.0% of    4.00MiB at  514.13KiB/s ETA 00:07[download]   0.1% of    4.00MiB at    1.31MiB/s ETA 00:03Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   0.0%  514.13KiB/s ETA 00:07[download]   0.2% of    4.00MiB at    2.58MiB/s ETA 00:01Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   0.1%    1.31MiB/s ETA 00:03[download]   0.4% of    4.00MiB at    4.53MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   0.2%    2.58MiB/s ETA 00:01[download]   0.8% of    4.00MiB at    8.12MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   0.4%    4.53MiB/s ETA 00:00[download]   1.5% of    4.00MiB at    9.73MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   0.8%    8.12MiB/s ETA 00:00[download]   3.1% of    4.00MiB at   14.64MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   1.5%    9.73MiB/s ETA 00:00[download]   6.2% of    4.00MiB at   20.23MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   3.1%   14.64MiB/s ETA 00:00[download]  12.5% of    4.00MiB at   29.15MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm   6.2%   20.23MiB/s ETA 00:00[download]  25.0% of    4.00MiB at   45.03MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm  12.5%   29.15MiB/s ETA 00:00[download]  50.0% of    4.00MiB at   60.66MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm  25.0%   45.03MiB/s ETA 00:00[download] 100.0% of    4.00MiB at   75.30MiB/s ETA 00:00Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm  50.0%   60.66MiB/s ETA 00:00[download] 100% of    4.00MiB in 00:00:00 at 46.53MiB/s  Downloading 07 - משה פרץ ואייל גולן - המילים החסרות.webm 100.0%   75.30MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/07 - משה פרץ ואייל גולן - המילים החסרות.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/07 - משה פרץ ואייל גולן - המילים החסרות.mp3
-Deleting original file /mnt/c/mp3/07 - משה פרץ ואייל גולן - המילים החסרות.webm (pass -k to keep)
-[download] Downloading item 8 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=oixBoC_IyZw
-[youtube] oixBoC_IyZw: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] oixBoC_IyZw: Downloading android vr player API JSON
-[youtube] oixBoC_IyZw: Downloading ios downgraded player API JSON
-[youtube] oixBoC_IyZw: Downloading m3u8 information
-[info] oixBoC_IyZw: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm
-[download]   0.0% of    3.84MiB at  496.60KiB/s ETA 00:07[download]   0.1% of    3.84MiB at    1.24MiB/s ETA 00:03Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   0.0%  496.60KiB/s ETA 00:07[download]   0.2% of    3.84MiB at    2.48MiB/s ETA 00:01Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   0.1%    1.24MiB/s ETA 00:03[download]   0.4% of    3.84MiB at    4.57MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   0.2%    2.48MiB/s ETA 00:01[download]   0.8% of    3.84MiB at    8.30MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   0.4%    4.57MiB/s ETA 00:00[download]   1.6% of    3.84MiB at    9.28MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   0.8%    8.30MiB/s ETA 00:00[download]   3.2% of    3.84MiB at   13.10MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   1.6%    9.28MiB/s ETA 00:00[download]   6.5% of    3.84MiB at   20.00MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   3.2%   13.10MiB/s ETA 00:00[download]  13.0% of    3.84MiB at   28.14MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm   6.5%   20.00MiB/s ETA 00:00[download]  26.0% of    3.84MiB at   42.73MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm  13.0%   28.14MiB/s ETA 00:00[download]  52.0% of    3.84MiB at   58.57MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm  26.0%   42.73MiB/s ETA 00:00[download] 100.0% of    3.84MiB at   75.42MiB/s ETA 00:00Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm  52.0%   58.57MiB/s ETA 00:00[download] 100% of    3.84MiB in 00:00:00 at 53.18MiB/s  Downloading 08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm 100.0%   75.42MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/08 - אייל גולן ועופר ניסים - לא מבינה עברית.mp3
-Deleting original file /mnt/c/mp3/08 - אייל גולן ועופר ניסים - לא מבינה עברית.webm (pass -k to keep)
-[download] Downloading item 9 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=ofkILmJSfhE
-[youtube] ofkILmJSfhE: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] ofkILmJSfhE: Downloading android vr player API JSON
-[youtube] ofkILmJSfhE: Downloading ios downgraded player API JSON
-[youtube] ofkILmJSfhE: Downloading m3u8 information
-[info] ofkILmJSfhE: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/09 - אייל גולן ומשה פרץ - כמה ימים.webm
-[download]   0.0% of    3.64MiB at  510.32KiB/s ETA 00:07[download]   0.1% of    3.64MiB at    1.31MiB/s ETA 00:02Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   0.0%  510.32KiB/s ETA 00:07[download]   0.2% of    3.64MiB at    2.65MiB/s ETA 00:01Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   0.1%    1.31MiB/s ETA 00:02[download]   0.4% of    3.64MiB at    4.84MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   0.2%    2.65MiB/s ETA 00:01[download]   0.8% of    3.64MiB at    6.72MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   0.4%    4.84MiB/s ETA 00:00[download]   1.7% of    3.64MiB at    7.72MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   0.8%    6.72MiB/s ETA 00:00[download]   3.4% of    3.64MiB at   10.17MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   1.7%    7.72MiB/s ETA 00:00[download]   6.8% of    3.64MiB at   14.83MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   3.4%   10.17MiB/s ETA 00:00[download]  13.7% of    3.64MiB at   22.66MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm   6.8%   14.83MiB/s ETA 00:00[download]  27.4% of    3.64MiB at   24.73MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm  13.7%   22.66MiB/s ETA 00:00[download]  54.9% of    3.64MiB at   45.56MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm  27.4%   24.73MiB/s ETA 00:00[download] 100.0% of    3.64MiB at   58.82MiB/s ETA 00:00Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm  54.9%   45.56MiB/s ETA 00:00[download] 100% of    3.64MiB in 00:00:00 at 42.38MiB/s  Downloading 09 - אייל גולן ומשה פרץ - כמה ימים.webm 100.0%   58.82MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/09 - אייל גולן ומשה פרץ - כמה ימים.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/09 - אייל גולן ומשה פרץ - כמה ימים.mp3
-Deleting original file /mnt/c/mp3/09 - אייל גולן ומשה פרץ - כמה ימים.webm (pass -k to keep)
-[download] Downloading item 10 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=1lDBvZ-2PKQ
-[youtube] 1lDBvZ-2PKQ: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] 1lDBvZ-2PKQ: Downloading android vr player API JSON
-[youtube] 1lDBvZ-2PKQ: Downloading ios downgraded player API JSON
-[youtube] 1lDBvZ-2PKQ: Downloading m3u8 information
-[info] 1lDBvZ-2PKQ: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/10 - אייל גולן כמו בספרים ההם Eyal Golan.webm
-[download]   0.0% of    3.44MiB at  483.77KiB/s ETA 00:07[download]   0.1% of    3.44MiB at    1.26MiB/s ETA 00:02Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   0.0%  483.77KiB/s ETA 00:07[download]   0.2% of    3.44MiB at    2.56MiB/s ETA 00:01Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   0.1%    1.26MiB/s ETA 00:02[download]   0.4% of    3.44MiB at    4.54MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   0.2%    2.56MiB/s ETA 00:01[download]   0.9% of    3.44MiB at    8.18MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   0.4%    4.54MiB/s ETA 00:00[download]   1.8% of    3.44MiB at   10.00MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   0.9%    8.18MiB/s ETA 00:00[download]   3.6% of    3.44MiB at   15.21MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   1.8%   10.00MiB/s ETA 00:00[download]   7.2% of    3.44MiB at   22.86MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   3.6%   15.21MiB/s ETA 00:00[download]  14.5% of    3.44MiB at   30.68MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm   7.2%   22.86MiB/s ETA 00:00[download]  29.1% of    3.44MiB at   42.30MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm  14.5%   30.68MiB/s ETA 00:00[download]  58.1% of    3.44MiB at   56.15MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm  29.1%   42.30MiB/s ETA 00:00[download] 100.0% of    3.44MiB at   73.30MiB/s ETA 00:00Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm  58.1%   56.15MiB/s ETA 00:00[download] 100% of    3.44MiB in 00:00:00 at 43.57MiB/s  Downloading 10 - אייל גולן כמו בספרים ההם Eyal Golan.webm 100.0%   73.30MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/10 - אייל גולן כמו בספרים ההם Eyal Golan.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/10 - אייל גולן כמו בספרים ההם Eyal Golan.mp3
-Deleting original file /mnt/c/mp3/10 - אייל גולן כמו בספרים ההם Eyal Golan.webm (pass -k to keep)
-[download] Downloading item 11 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=f7xddQnPUKg
-[youtube] f7xddQnPUKg: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] f7xddQnPUKg: Downloading android vr player API JSON
-[youtube] f7xddQnPUKg: Downloading ios downgraded player API JSON
-[youtube] f7xddQnPUKg: Downloading m3u8 information
-[info] f7xddQnPUKg: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/11 - אייל גולן - לונדון.webm
-[download]   0.0% of    3.17MiB at  553.63KiB/s ETA 00:05[download]   0.1% of    3.17MiB at    1.39MiB/s ETA 00:02Downloading 11 - אייל גולן - לונדון.webm   0.0%  553.63KiB/s ETA 00:05[download]   0.2% of    3.17MiB at    2.70MiB/s ETA 00:01Downloading 11 - אייל גולן - לונדון.webm   0.1%    1.39MiB/s ETA 00:02[download]   0.5% of    3.17MiB at    4.81MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm   0.2%    2.70MiB/s ETA 00:01[download]   1.0% of    3.17MiB at    8.80MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm   0.5%    4.81MiB/s ETA 00:00[download]   1.9% of    3.17MiB at    9.14MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm   1.0%    8.80MiB/s ETA 00:00[download]   3.9% of    3.17MiB at   14.63MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm   1.9%    9.14MiB/s ETA 00:00[download]   7.9% of    3.17MiB at   21.13MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm   3.9%   14.63MiB/s ETA 00:00[download]  15.8% of    3.17MiB at   31.80MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm   7.9%   21.13MiB/s ETA 00:00[download]  31.5% of    3.17MiB at   49.18MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm  15.8%   31.80MiB/s ETA 00:00[download]  63.1% of    3.17MiB at   56.55MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm  31.5%   49.18MiB/s ETA 00:00[download] 100.0% of    3.17MiB at   69.44MiB/s ETA 00:00Downloading 11 - אייל גולן - לונדון.webm  63.1%   56.55MiB/s ETA 00:00[download] 100% of    3.17MiB in 00:00:00 at 49.06MiB/s  Downloading 11 - אייל גולן - לונדון.webm 100.0%   69.44MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/11 - אייל גולן - לונדון.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/11 - אייל גולן - לונדון.mp3
-Deleting original file /mnt/c/mp3/11 - אייל גולן - לונדון.webm (pass -k to keep)
-[download] Downloading item 12 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=YlJnxy6DpvA
-[youtube] YlJnxy6DpvA: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] YlJnxy6DpvA: Downloading android vr player API JSON
-[youtube] YlJnxy6DpvA: Downloading ios downgraded player API JSON
-[youtube] YlJnxy6DpvA: Downloading m3u8 information
-[info] YlJnxy6DpvA: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/12 - אייל גולן - ממחר.webm
-[download]   0.0% of    2.83MiB at  697.77KiB/s ETA 00:04[download]   0.1% of    2.83MiB at    1.67MiB/s ETA 00:01Downloading 12 - אייל גולן - ממחר.webm   0.0%  697.77KiB/s ETA 00:04[download]   0.2% of    2.83MiB at    3.22MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   0.1%    1.67MiB/s ETA 00:01[download]   0.5% of    2.83MiB at    5.79MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   0.2%    3.22MiB/s ETA 00:00[download]   1.1% of    2.83MiB at   10.37MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   0.5%    5.79MiB/s ETA 00:00[download]   2.2% of    2.83MiB at    8.45MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   1.1%   10.37MiB/s ETA 00:00[download]   4.4% of    2.83MiB at   15.73MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   2.2%    8.45MiB/s ETA 00:00[download]   8.8% of    2.83MiB at   23.96MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   4.4%   15.73MiB/s ETA 00:00[download]  17.6% of    2.83MiB at   33.03MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm   8.8%   23.96MiB/s ETA 00:00[download]  35.3% of    2.83MiB at   48.52MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm  17.6%   33.03MiB/s ETA 00:00[download]  70.6% of    2.83MiB at   65.80MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm  35.3%   48.52MiB/s ETA 00:00[download] 100.0% of    2.83MiB at   72.84MiB/s ETA 00:00Downloading 12 - אייל גולן - ממחר.webm  70.6%   65.80MiB/s ETA 00:00[download] 100% of    2.83MiB in 00:00:00 at 47.40MiB/s  Downloading 12 - אייל גולן - ממחר.webm 100.0%   72.84MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/12 - אייל גולן - ממחר.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/12 - אייל גולן - ממחר.mp3
-Deleting original file /mnt/c/mp3/12 - אייל גולן - ממחר.webm (pass -k to keep)
-[download] Downloading item 13 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=PIEN5Ix8gqQ
-[youtube] PIEN5Ix8gqQ: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] PIEN5Ix8gqQ: Downloading android vr player API JSON
-[youtube] PIEN5Ix8gqQ: Downloading ios downgraded player API JSON
-[youtube] PIEN5Ix8gqQ: Downloading m3u8 information
-[info] PIEN5Ix8gqQ: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm
-[download]   0.0% of    3.23MiB at  162.43KiB/s ETA 00:20[download]   0.1% of    3.23MiB at  444.28KiB/s ETA 00:07Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   0.0%  162.43KiB/s ETA 00:20[download]   0.2% of    3.23MiB at  980.40KiB/s ETA 00:03Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   0.1%  444.28KiB/s ETA 00:07[download]   0.5% of    3.23MiB at    1.90MiB/s ETA 00:01Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   0.2%  980.40KiB/s ETA 00:03[download]   0.9% of    3.23MiB at    3.65MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   0.5%    1.90MiB/s ETA 00:01[download]   1.9% of    3.23MiB at    5.54MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   0.9%    3.65MiB/s ETA 00:00[download]   3.8% of    3.23MiB at    6.50MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   1.9%    5.54MiB/s ETA 00:00[download]   7.7% of    3.23MiB at   11.55MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   3.8%    6.50MiB/s ETA 00:00[download]  15.4% of    3.23MiB at   19.51MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm   7.7%   11.55MiB/s ETA 00:00[download]  30.9% of    3.23MiB at   30.80MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm  15.4%   19.51MiB/s ETA 00:00[download]  61.8% of    3.23MiB at   47.59MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm  30.9%   30.80MiB/s ETA 00:00[download] 100.0% of    3.23MiB at   58.63MiB/s ETA 00:00Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm  61.8%   47.59MiB/s ETA 00:00[download] 100% of    3.23MiB in 00:00:00 at 37.13MiB/s  Downloading 13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm 100.0%   58.63MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/13 - אייל גולן ובניה ברבי - ממה את מפחדת.mp3
-Deleting original file /mnt/c/mp3/13 - אייל גולן ובניה ברבי - ממה את מפחדת.webm (pass -k to keep)
-[download] Downloading item 14 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=WLhHxQX7uJk
-[youtube] WLhHxQX7uJk: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] WLhHxQX7uJk: Downloading android vr player API JSON
-[youtube] WLhHxQX7uJk: Downloading ios downgraded player API JSON
-[youtube] WLhHxQX7uJk: Downloading m3u8 information
-[info] WLhHxQX7uJk: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/14 - אייל גולן - שיכור בלילות.webm
-[download]   0.0% of    4.31MiB at  491.89KiB/s ETA 00:09[download]   0.1% of    4.31MiB at    1.22MiB/s ETA 00:03Downloading 14 - אייל גולן - שיכור בלילות.webm   0.0%  491.89KiB/s ETA 00:09[download]   0.2% of    4.31MiB at    2.44MiB/s ETA 00:01Downloading 14 - אייל גולן - שיכור בלילות.webm   0.1%    1.22MiB/s ETA 00:03[download]   0.3% of    4.31MiB at    4.49MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm   0.2%    2.44MiB/s ETA 00:01[download]   0.7% of    4.31MiB at    8.34MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm   0.3%    4.49MiB/s ETA 00:00[download]   1.4% of    4.31MiB at   10.73MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm   0.7%    8.34MiB/s ETA 00:00[download]   2.9% of    4.31MiB at   15.63MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm   1.4%   10.73MiB/s ETA 00:00[download]   5.8% of    4.31MiB at   22.15MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm   2.9%   15.63MiB/s ETA 00:00[download]  11.6% of    4.31MiB at   31.96MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm   5.8%   22.15MiB/s ETA 00:00[download]  23.2% of    4.31MiB at   48.71MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm  11.6%   31.96MiB/s ETA 00:00[download]  46.4% of    4.31MiB at   11.10MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm  23.2%   48.71MiB/s ETA 00:00[download]  92.8% of    4.31MiB at   19.93MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm  46.4%   11.10MiB/s ETA 00:00[download] 100.0% of    4.31MiB at   13.45MiB/s ETA 00:00Downloading 14 - אייל גולן - שיכור בלילות.webm  92.8%   19.93MiB/s ETA 00:00[download] 100% of    4.31MiB in 00:00:00 at 11.07MiB/s  Downloading 14 - אייל גולן - שיכור בלילות.webm 100.0%   13.45MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/14 - אייל גולן - שיכור בלילות.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/14 - אייל גולן - שיכור בלילות.mp3
-Deleting original file /mnt/c/mp3/14 - אייל גולן - שיכור בלילות.webm (pass -k to keep)
-[download] Downloading item 15 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=ZGMIh-4vWxw
-[youtube] ZGMIh-4vWxw: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] ZGMIh-4vWxw: Downloading android vr player API JSON
-[youtube] ZGMIh-4vWxw: Downloading ios downgraded player API JSON
-[youtube] ZGMIh-4vWxw: Downloading m3u8 information
-[info] ZGMIh-4vWxw: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/15 - אייל גולן - אחי אמר לי.webm
-[download]   0.0% of    4.13MiB at  317.87KiB/s ETA 00:13[download]   0.1% of    4.13MiB at  844.77KiB/s ETA 00:05Downloading 15 - אייל גולן - אחי אמר לי.webm   0.0%  317.87KiB/s ETA 00:13[download]   0.2% of    4.13MiB at    1.71MiB/s ETA 00:02Downloading 15 - אייל גולן - אחי אמר לי.webm   0.1%  844.77KiB/s ETA 00:05[download]   0.4% of    4.13MiB at    3.26MiB/s ETA 00:01Downloading 15 - אייל גולן - אחי אמר לי.webm   0.2%    1.71MiB/s ETA 00:02[download]   0.7% of    4.13MiB at    6.18MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm   0.4%    3.26MiB/s ETA 00:01[download]   1.5% of    4.13MiB at    8.09MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm   0.7%    6.18MiB/s ETA 00:00[download]   3.0% of    4.13MiB at   12.19MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm   1.5%    8.09MiB/s ETA 00:00[download]   6.0% of    4.13MiB at   17.52MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm   3.0%   12.19MiB/s ETA 00:00[download]  12.1% of    4.13MiB at   24.61MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm   6.0%   17.52MiB/s ETA 00:00[download]  24.2% of    4.13MiB at   41.76MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm  12.1%   24.61MiB/s ETA 00:00[download]  48.5% of    4.13MiB at   50.80MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm  24.2%   41.76MiB/s ETA 00:00[download]  96.9% of    4.13MiB at   23.93MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm  48.5%   50.80MiB/s ETA 00:00[download] 100.0% of    4.13MiB at   19.49MiB/s ETA 00:00Downloading 15 - אייל גולן - אחי אמר לי.webm  96.9%   23.93MiB/s ETA 00:00[download] 100% of    4.13MiB in 00:00:00 at 16.89MiB/s  Downloading 15 - אייל גולן - אחי אמר לי.webm 100.0%   19.49MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/15 - אייל גולן - אחי אמר לי.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/15 - אייל גולן - אחי אמר לי.mp3
-Deleting original file /mnt/c/mp3/15 - אייל גולן - אחי אמר לי.webm (pass -k to keep)
-[download] Downloading item 16 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=u2fg2WDRD4M
-[youtube] u2fg2WDRD4M: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] u2fg2WDRD4M: Downloading android vr player API JSON
-[youtube] u2fg2WDRD4M: Downloading ios downgraded player API JSON
-[youtube] u2fg2WDRD4M: Downloading m3u8 information
-[info] u2fg2WDRD4M: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/16 - אייל גולן - קחי לך את היום.webm
-[download]   0.0% of    3.57MiB at  410.48KiB/s ETA 00:08[download]   0.1% of    3.57MiB at    1.04MiB/s ETA 00:03Downloading 16 - אייל גולן - קחי לך את היום.webm   0.0%  410.48KiB/s ETA 00:08[download]   0.2% of    3.57MiB at    2.06MiB/s ETA 00:01Downloading 16 - אייל גולן - קחי לך את היום.webm   0.1%    1.04MiB/s ETA 00:03[download]   0.4% of    3.57MiB at    3.84MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm   0.2%    2.06MiB/s ETA 00:01[download]   0.8% of    3.57MiB at    6.95MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm   0.4%    3.84MiB/s ETA 00:00[download]   1.7% of    3.57MiB at    9.84MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm   0.8%    6.95MiB/s ETA 00:00[download]   3.5% of    3.57MiB at   14.77MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm   1.7%    9.84MiB/s ETA 00:00[download]   7.0% of    3.57MiB at   20.89MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm   3.5%   14.77MiB/s ETA 00:00[download]  14.0% of    3.57MiB at   31.10MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm   7.0%   20.89MiB/s ETA 00:00[download]  28.0% of    3.57MiB at   43.47MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm  14.0%   31.10MiB/s ETA 00:00[download]  56.0% of    3.57MiB at   60.16MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm  28.0%   43.47MiB/s ETA 00:00[download] 100.0% of    3.57MiB at   73.63MiB/s ETA 00:00Downloading 16 - אייל גולן - קחי לך את היום.webm  56.0%   60.16MiB/s ETA 00:00[download] 100% of    3.57MiB in 00:00:00 at 10.00MiB/s  Downloading 16 - אייל גולן - קחי לך את היום.webm 100.0%   73.63MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/16 - אייל גולן - קחי לך את היום.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/16 - אייל גולן - קחי לך את היום.mp3
-Deleting original file /mnt/c/mp3/16 - אייל גולן - קחי לך את היום.webm (pass -k to keep)
-[download] Downloading item 17 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=HbNX6Lh0xuw
-[youtube] HbNX6Lh0xuw: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] HbNX6Lh0xuw: Downloading android vr player API JSON
-[youtube] HbNX6Lh0xuw: Downloading ios downgraded player API JSON
-[youtube] HbNX6Lh0xuw: Downloading m3u8 information
-[info] HbNX6Lh0xuw: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/17 - אייל גולן - מקום אחר.webm
-[download]   0.0% of    4.75MiB at  703.15KiB/s ETA 00:06[download]   0.1% of    4.75MiB at    1.72MiB/s ETA 00:02Downloading 17 - אייל גולן - מקום אחר.webm   0.0%  703.15KiB/s ETA 00:06[download]   0.1% of    4.75MiB at    3.41MiB/s ETA 00:01Downloading 17 - אייל גולן - מקום אחר.webm   0.1%    1.72MiB/s ETA 00:02[download]   0.3% of    4.75MiB at    6.17MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm   0.1%    3.41MiB/s ETA 00:01[download]   0.6% of    4.75MiB at   10.45MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm   0.3%    6.17MiB/s ETA 00:00[download]   1.3% of    4.75MiB at   11.23MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm   0.6%   10.45MiB/s ETA 00:00[download]   2.6% of    4.75MiB at   16.55MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm   1.3%   11.23MiB/s ETA 00:00[download]   5.2% of    4.75MiB at   22.67MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm   2.6%   16.55MiB/s ETA 00:00[download]  10.5% of    4.75MiB at   33.57MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm   5.2%   22.67MiB/s ETA 00:00[download]  21.0% of    4.75MiB at   48.66MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm  10.5%   33.57MiB/s ETA 00:00[download]  42.0% of    4.75MiB at   61.74MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm  21.0%   48.66MiB/s ETA 00:00[download]  84.1% of    4.75MiB at   36.83MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm  42.0%   61.74MiB/s ETA 00:00[download] 100.0% of    4.75MiB at   38.94MiB/s ETA 00:00Downloading 17 - אייל גולן - מקום אחר.webm  84.1%   36.83MiB/s ETA 00:00[download] 100% of    4.75MiB in 00:00:00 at 32.75MiB/s  Downloading 17 - אייל גולן - מקום אחר.webm 100.0%   38.94MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/17 - אייל גולן - מקום אחר.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/17 - אייל גולן - מקום אחר.mp3
-Deleting original file /mnt/c/mp3/17 - אייל גולן - מקום אחר.webm (pass -k to keep)
-[download] Downloading item 18 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=a_4EvZMHed8
-[youtube] a_4EvZMHed8: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] a_4EvZMHed8: Downloading android vr player API JSON
-[youtube] a_4EvZMHed8: Downloading ios downgraded player API JSON
-[youtube] a_4EvZMHed8: Downloading m3u8 information
-[info] a_4EvZMHed8: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/18 - אייל גולן - סוף שבוע.webm
-[download]   0.0% of    3.05MiB at  141.58KiB/s ETA 00:22[download]   0.1% of    3.05MiB at  378.83KiB/s ETA 00:08Downloading 18 - אייל גולן - סוף שבוע.webm   0.0%  141.58KiB/s ETA 00:22[download]   0.2% of    3.05MiB at  781.64KiB/s ETA 00:03Downloading 18 - אייל גולן - סוף שבוע.webm   0.1%  378.83KiB/s ETA 00:08[download]   0.5% of    3.05MiB at    1.45MiB/s ETA 00:02Downloading 18 - אייל גולן - סוף שבוע.webm   0.2%  781.64KiB/s ETA 00:03[download]   1.0% of    3.05MiB at    2.77MiB/s ETA 00:01Downloading 18 - אייל גולן - סוף שבוע.webm   0.5%    1.45MiB/s ETA 00:02[download]   2.0% of    3.05MiB at    4.58MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm   1.0%    2.77MiB/s ETA 00:01[download]   4.1% of    3.05MiB at    7.16MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm   2.0%    4.58MiB/s ETA 00:00[download]   8.2% of    3.05MiB at   10.21MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm   4.1%    7.16MiB/s ETA 00:00[download]  16.4% of    3.05MiB at   15.61MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm   8.2%   10.21MiB/s ETA 00:00[download]  32.8% of    3.05MiB at   26.56MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm  16.4%   15.61MiB/s ETA 00:00[download]  65.6% of    3.05MiB at   38.38MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm  32.8%   26.56MiB/s ETA 00:00[download] 100.0% of    3.05MiB at   38.06MiB/s ETA 00:00Downloading 18 - אייל גולן - סוף שבוע.webm  65.6%   38.38MiB/s ETA 00:00[download] 100% of    3.05MiB in 00:00:01 at 2.46MiB/s   Downloading 18 - אייל גולן - סוף שבוע.webm 100.0%   38.06MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/18 - אייל גולן - סוף שבוע.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/18 - אייל גולן - סוף שבוע.mp3
-Deleting original file /mnt/c/mp3/18 - אייל גולן - סוף שבוע.webm (pass -k to keep)
-[download] Downloading item 19 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=GYKwObTLFkA
-[youtube] GYKwObTLFkA: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] GYKwObTLFkA: Downloading android vr player API JSON
-[youtube] GYKwObTLFkA: Downloading ios downgraded player API JSON
-[youtube] GYKwObTLFkA: Downloading m3u8 information
-[info] GYKwObTLFkA: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/19 - אייל גולן - כמה טוב לי שבאת.webm
-[download]   0.0% of    3.45MiB at  729.70KiB/s ETA 00:04[download]   0.1% of    3.45MiB at    1.77MiB/s ETA 00:01Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   0.0%  729.70KiB/s ETA 00:04[download]   0.2% of    3.45MiB at    3.41MiB/s ETA 00:01Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   0.1%    1.77MiB/s ETA 00:01[download]   0.4% of    3.45MiB at    5.66MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   0.2%    3.41MiB/s ETA 00:01[download]   0.9% of    3.45MiB at    9.63MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   0.4%    5.66MiB/s ETA 00:00[download]   1.8% of    3.45MiB at   11.70MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   0.9%    9.63MiB/s ETA 00:00[download]   3.6% of    3.45MiB at   17.24MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   1.8%   11.70MiB/s ETA 00:00[download]   7.2% of    3.45MiB at   23.00MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   3.6%   17.24MiB/s ETA 00:00[download]  14.5% of    3.45MiB at   31.21MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm   7.2%   23.00MiB/s ETA 00:00[download]  29.0% of    3.45MiB at   48.95MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm  14.5%   31.21MiB/s ETA 00:00[download]  58.0% of    3.45MiB at   59.87MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm  29.0%   48.95MiB/s ETA 00:00[download] 100.0% of    3.45MiB at   72.11MiB/s ETA 00:00Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm  58.0%   59.87MiB/s ETA 00:00[download] 100% of    3.45MiB in 00:00:00 at 47.42MiB/s  Downloading 19 - אייל גולן - כמה טוב לי שבאת.webm 100.0%   72.11MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/19 - אייל גולן - כמה טוב לי שבאת.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/19 - אייל גולן - כמה טוב לי שבאת.mp3
-Deleting original file /mnt/c/mp3/19 - אייל גולן - כמה טוב לי שבאת.webm (pass -k to keep)
-[download] Downloading item 20 of 20
-[youtube] Extracting URL: https://www.youtube.com/watch?v=10AbG1y378g
-[youtube] 10AbG1y378g: Downloading webpage
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-[youtube] 10AbG1y378g: Downloading android vr player API JSON
-[youtube] 10AbG1y378g: Downloading ios downgraded player API JSON
-[youtube] 10AbG1y378g: Downloading m3u8 information
-[info] 10AbG1y378g: Downloading 1 format(s): 251
-[download] Destination: /mnt/c/mp3/20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm
-[download]   0.0% of    3.69MiB at  203.99KiB/s ETA 00:18[download]   0.1% of    3.69MiB at  552.83KiB/s ETA 00:06Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   0.0%  203.99KiB/s ETA 00:18[download]   0.2% of    3.69MiB at    1.13MiB/s ETA 00:03Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   0.1%  552.83KiB/s ETA 00:06[download]   0.4% of    3.69MiB at    2.16MiB/s ETA 00:01Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   0.2%    1.13MiB/s ETA 00:03[download]   0.8% of    3.69MiB at    4.15MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   0.4%    2.16MiB/s ETA 00:01[download]   1.7% of    3.69MiB at    6.78MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   0.8%    4.15MiB/s ETA 00:00[download]   3.4% of    3.69MiB at   11.18MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   1.7%    6.78MiB/s ETA 00:00[download]   6.7% of    3.69MiB at   16.83MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   3.4%   11.18MiB/s ETA 00:00[download]  13.5% of    3.69MiB at   25.81MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm   6.7%   16.83MiB/s ETA 00:00[download]  27.0% of    3.69MiB at   35.26MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm  13.5%   25.81MiB/s ETA 00:00[download]  54.1% of    3.69MiB at   55.14MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm  27.0%   35.26MiB/s ETA 00:00[download] 100.0% of    3.69MiB at   19.84MiB/s ETA 00:00Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm  54.1%   55.14MiB/s ETA 00:00[download] 100% of    3.69MiB in 00:00:00 at 14.66MiB/s  Downloading 20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm 100.0%   19.84MiB/s ETA 00:00
-
-Finished downloading: /mnt/c/mp3/20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm. Converting to mp3...
-[ExtractAudio] Destination: /mnt/c/mp3/20 - אייל גולן Vivo x - לרקוד כמו משוגע.mp3
-Deleting original file /mnt/c/mp3/20 - אייל גולן Vivo x - לרקוד כמו משוגע.webm (pass -k to keep)
-[download] Finished downloading playlist: אייל גולן - הפוך מהיקום
