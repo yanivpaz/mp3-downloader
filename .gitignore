@@ -5,3 +5,5 @@
 node_modules/
 .venv/
 .env
+# Ignore job output directory
+jobs/
