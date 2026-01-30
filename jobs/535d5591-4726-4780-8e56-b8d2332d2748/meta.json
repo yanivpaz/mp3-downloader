@@ -1,1 +1,0 @@
-{"pid": 43607, "cmd": ["/home/yanivp/mp3-downloader/.venv/bin/python3", "/home/yanivp/mp3-downloader/download_mp3.py", "https://www.youtube.com/watch?v=gg-Aby8eE1M&list=PL2l4T5NjtOsrLoMeXsbUqJijq5zFTj4bO", "-o", "/mnt/c/mp3"]}
