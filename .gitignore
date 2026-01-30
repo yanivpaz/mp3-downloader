@@ -1,0 +1,7 @@
+# Ignore log files
+*log
+
+# Common ignores
+node_modules/
+.venv/
+.env
